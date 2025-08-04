@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>守海人 · 独立开发者</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 50px 0 30px;
+    }
+    header h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+    header p {
+      color: #888;
+      font-size: 18px;
+    }
+    section {
+      max-width: 800px;
+      margin: 0 auto 40px;
+    }
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 8px;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      margin: 15px 0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #aaa;
+      margin: 60px 0 20px;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>守海人 · 独立开发者</h1>
+  <p>小程序 · 网站 · 软件系统定制开发</p>
+</header>
+
+<section>
+  <h2>关于我</h2>
+  <p>你好，我是守海人，一名自由开发者，专注于小程序、网页与软件系统的开发设计。曾为多家商户与创业者提供定制化解决方案，快速上线，长期维护，性价比优。</p>
+</section>
+
+<section>
+  <h2>服务内容</h2>
+  <ul>
+    <li>✅ 小程序定制开发（微信/支付宝/抖音）</li>
+    <li>✅ 企业官网 / 电商页面 / 活动H5</li>
+    <li>✅ 后端接口开发（Node.js / Python / PHP）</li>
+    <li>✅ 管理后台系统开发（PC端）</li>
+    <li>✅ 简洁高效的 UI/UX 设计</li>
+  </ul>
+</section>
+
+<section>
+  <h2>项目案例</h2>
+  <div class="card">
+    <strong>📱 预约类小程序</strong><br>
+    - 功能：用户预约、商家管理、支付<br>
+    - 技术：Uniapp + Node.js + MySQL<br>
+    - 成果：商户上线一周内实现客户预约100+
+  </div>
+  <div class="card">
+    <strong>🖥️ 教育培训官网</strong><br>
+    - 功能：课程展示、报名、后台管理<br>
+    - 技术：Vue3 + Firebase<br>
+    - 成果：为某地教培机构成功引流1000+
+  </div>
+</section>
+
+<section>
+  <h2>合作流程</h2>
+  <ol>
+    <li>沟通需求（微信/邮件）</li>
+    <li>确定报价与工期</li>
+    <li>支付定金，开始开发</li>
+    <li>阶段验收，持续交付</li>
+    <li>交付源码，尾款支付</li>
+    <li>后期维护支持（可选）</li>
+  </ol>
+</section>
+
+<section>
+  <h2>联系我</h2>
+  <p>📱 微信：ShunHaiDT</p>
+  <p>📧 邮箱：3243077292@qq.com</p>
+  <p>🌐 GitHub：<a href="https://github.com/your_github">your_github</a></p>
+</section>
+
+<footer>
+  © 2025 守海人 · 独立开发者 All Rights Reserved
+</footer>
+
+</body>
+</html>
